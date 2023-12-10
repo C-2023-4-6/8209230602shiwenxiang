@@ -1,0 +1,5 @@
+﻿  源.cpp
+C:\Users\29116\source\repos\实验4指针6\实验4指针6\源.cpp(22,12): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\29116\source\repos\实验4指针6\实验4指针6\源.cpp(27,52): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\29116\source\repos\实验4指针6\实验4指针6\源.cpp(29,34): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  实验4指针6.vcxproj -> C:\Users\29116\source\repos\实验4指针6\x64\Debug\实验4指针6.exe

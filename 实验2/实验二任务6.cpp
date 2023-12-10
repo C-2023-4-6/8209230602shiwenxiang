@@ -22,4 +22,6 @@ int main()
 	c = c / b;
 	cout << "最大公约数是" << b << endl;
 	cout << "最小公倍数" << c << endl;
+	system("pause");
+	return 0;
 }
